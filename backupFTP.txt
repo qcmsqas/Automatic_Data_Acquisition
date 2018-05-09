@@ -1,0 +1,6 @@
+open 10.98.124.64
+user qqmmm
+84131421
+cd /MPC08Backup 
+put MPC08.rar 
+bye
